@@ -1,4 +1,13 @@
-# Aplikasi berjalan berdasarkan pengambilan data yang disediakan oleh server MySql.
+#Nama Kelompok :
+1. Muhamad Fikri Rizki Romadhoni (18051204060)
+2. M. Adharis Adlani (18051204072)
+3. Hanif Afrizal (18051204044)
+
+#Kelas TI2018B
+Prodi Teknik Informatika
+Universitas Negeri Surabaya 
+
+#Aplikasi berjalan berdasarkan pengambilan data yang disediakan oleh server MySql.
 
 Persiapan :
 Koneksi lokal -> bisa pakai Hotspost Smartphone lalu set IP komputer server
@@ -35,3 +44,5 @@ Untuk Source Code -> terdapat file project pada folder "CRUD_MySql". didalamnya
 
 Aplikasi jadi -> Untuk Aplikasi Jadi (Release) Bisa Langsung diinstal pada Smartphone yang
 		bernama "KumbahKU_UAS_Pemmob_44_60_72_TI2018B"
+
+File Database & php -> dikompress dalam format rar bernama server web
