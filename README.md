@@ -1,13 +1,15 @@
-#Nama Kelompok :
+# Aplikasi KumbahKU UAS Pemmob
+
+Nama Kelompok :
 1. Muhamad Fikri Rizki Romadhoni (18051204060)
 2. M. Adharis Adlani (18051204072)
 3. Hanif Afrizal (18051204044)
 
-#Kelas TI2018B
+Kelas TI2018B
 Prodi Teknik Informatika
 Universitas Negeri Surabaya 
 
-#Aplikasi berjalan berdasarkan pengambilan data yang disediakan oleh server MySql.
+Aplikasi berjalan berdasarkan pengambilan data yang disediakan oleh server MySql.
 
 Persiapan :
 Koneksi lokal -> bisa pakai Hotspost Smartphone lalu set IP komputer server
